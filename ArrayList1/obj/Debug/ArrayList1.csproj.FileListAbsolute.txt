@@ -1,0 +1,6 @@
+C:\Users\test\Desktop\ArrayList1\bin\Debug\ArrayList1.exe.config
+C:\Users\test\Desktop\ArrayList1\bin\Debug\ArrayList1.exe
+C:\Users\test\Desktop\ArrayList1\bin\Debug\ArrayList1.pdb
+C:\Users\test\Desktop\ArrayList1\obj\Debug\ArrayList1.csprojAssemblyReference.cache
+C:\Users\test\Desktop\ArrayList1\obj\Debug\ArrayList1.exe
+C:\Users\test\Desktop\ArrayList1\obj\Debug\ArrayList1.pdb
