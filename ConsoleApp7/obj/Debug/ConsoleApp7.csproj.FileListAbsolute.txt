@@ -1,0 +1,5 @@
+C:\Users\test\Desktop\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\test\Desktop\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\test\Desktop\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\test\Desktop\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\test\Desktop\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

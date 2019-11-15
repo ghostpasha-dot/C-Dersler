@@ -1,0 +1,6 @@
+C:\Users\test\Desktop\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\test\Desktop\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\test\Desktop\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\test\Desktop\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\test\Desktop\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\test\Desktop\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
